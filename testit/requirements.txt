@@ -7,9 +7,7 @@
 #however a particular version can be installed/mentioned
 pip==21.0.1
 
-#for wheel build error on thriftpy 
-wheel==0.36.2 
-Cython==0.29.22
+
 
 
 #for azure
